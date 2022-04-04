@@ -1,5 +1,5 @@
 ---
-title: "Multiple Regression Wisom - Chapter 24"
+title: "Multiple Regression Wisdom - Chapter 24"
 author: "Alan Arnholt"
 date: 'Last updated: `r format(Sys.time(), "%B %d, %Y at %X")`'
 output: 
